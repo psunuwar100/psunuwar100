@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prashansa Sunuwar</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
+<img src="https://imgs.search.brave.com/uTMdlReYmkYipewcqShgmkml_xlmlblR9WaV9RSG2iw/rs:fit:500:309:1/g:ce/aHR0cDovL3BhMS5u/YXJ2aWkuY29tLzU3/NjEvNzdhNmE0NDdl/OGI1NmI1NDg4MDI1/NTBkMTRkMDY4MTI1/YWQ0YjNiMl9ocS5n/aWY.gif" align="right" height="250" width="50%">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psunuwar100&label=Profile%20views&color=0e75b6&style=flat" alt="psunuwar100" /> </p>
 
-<img src="https://imgs.search.brave.com/uTMdlReYmkYipewcqShgmkml_xlmlblR9WaV9RSG2iw/rs:fit:500:309:1/g:ce/aHR0cDovL3BhMS5u/YXJ2aWkuY29tLzU3/NjEvNzdhNmE0NDdl/OGI1NmI1NDg4MDI1/NTBkMTRkMDY4MTI1/YWQ0YjNiMl9ocS5n/aWY.gif" align="right" height="250" width="50%">
 - 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **psunuwar100@gmail.com**
