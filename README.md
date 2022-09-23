@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psunuwar100&label=Profile%20views&color=0e75b6&style=flat" alt="psunuwar100" /> </p>
 
-<img src="https://giffiles.alphacoders.com/350/35046.gif" align="right" height="400">
+<img src="https://giffiles.alphacoders.com/350/35046.gif" align="right" height="200">
 - 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **psunuwar100@gmail.com**
