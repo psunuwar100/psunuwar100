@@ -8,7 +8,7 @@
 - 📫 How to reach me **psunuwar100@gmail.com**
 
 - ⚡ Fun fact **Daal Vaat power 24 hour**
-<img src="https://giffiles.alphacoders.com/350/35046.gif" style="display:flex" height:400>
+<img src="https://giffiles.alphacoders.com/350/35046.gif" float="right">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/prashansa sunuwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prashansa sunuwar" height="30" width="40" /></a>
