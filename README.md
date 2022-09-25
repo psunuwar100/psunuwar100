@@ -7,9 +7,6 @@
 
 - 📫 How to reach me **psunuwar100@gmail.com**
 
-- ;
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/prashansa sunuwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prashansa sunuwar" height="30" width="40" /></a>
