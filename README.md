@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Prashansa Sunuwar</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
 <img src="https://media4.giphy.com/media/M7vuylW3ons0E/giphy.gif?cid=ecf05e471a5mu64mp0032yrwvkv5qog8h9ok3l33ll93cix4&rid=giphy.gif&ct=g" align="right" height="250" width="50%">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psunuwar100&label=Profile%20views&color=0e75b6&style=flat" alt="psunuwar100" /> </p>
@@ -8,7 +7,6 @@
 
 - 📫 How to reach me **psunuwar100@gmail.com**
 
-- ⚡ Fun fact **Daal Vaat power 24 hour**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
