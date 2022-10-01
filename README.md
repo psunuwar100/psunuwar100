@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashansa Sunuwar</h1>
-<img src="" height="250" width="50%">
+<img src="https://d9jhi50qo719s.cloudfront.net/1466/samples/1ema_800.gif?221001110853" height="250" width="50%">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psunuwar100&label=Profile%20views&color=0e75b6&style=flat" alt="psunuwar100" /> </p>
 
